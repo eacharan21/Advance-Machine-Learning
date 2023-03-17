@@ -9,9 +9,9 @@ Experimented with different ML algorithms using TF-IDF, Word2Vec and combination
 Compared the outputs of the Experimentations Using different ML Algorithms.
 
 COLAB NOTEBOOK LINK: 
-https://colab.research.google.com/drive/1It0PA13gcMiPuVTC1QK9OuTjWMVZqMdL
+https://colab.research.google.com/drive/1It0PA13gcMiPuVTC1QK9OuTjWMVZqMdL?usp=sharing
 
-https://colab.research.google.com/drive/1paeIErPm4EE2E0-vrWB4xD8D6OVbWjHp#scrollTo=GyrUypEsYM-t
+https://colab.research.google.com/drive/1paeIErPm4EE2E0-vrWB4xD8D6OVbWjHp?usp=sharing
 
 PROJECT PRESENTATION LINK: 
 https://drive.google.com/file/d/1bg6GLZR6j3nOahvtLx4sL654KsZvlK88/view?usp=share_link
