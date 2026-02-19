@@ -1,6 +1,6 @@
 # 🩺 Image Classification – Pneumonia Detection using CNN
 
-<a href="[https://colab.research.google.com/drive/1Mc1_t2VyR4isQ2FW8G2YbRgeufhCv1Kk?usp=sharing]">
+<a href="https://colab.research.google.com/drive/1Mc1_t2VyR4isQ2FW8G2YbRgeufhCv1Kk?usp=sharing">
 <img src="https://colab.research.google.com/assets/colab-badge.svg"/>
 </a>
 
