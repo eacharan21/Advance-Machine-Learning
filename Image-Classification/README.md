@@ -1,5 +1,10 @@
 # 🩺 Image Classification – Pneumonia Detection using CNN
 
+<a href="https://colab.research.google.com/github/eacharan21/Advance-Machine-Learning/blob/main/Image-Classification/pneumonia_cnn_classification.ipynb">
+<img src="https://colab.research.google.com/assets/colab-badge.svg"/>
+</a>
+
+
 ## 📌 Project Overview
 This project implements a Convolutional Neural Network (CNN) for classifying chest X-ray images to detect pneumonia.  
 The model was built to demonstrate deep learning techniques for medical image analysis.
